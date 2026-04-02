@@ -492,7 +492,8 @@ class PersistentTicketView(ui.View):
 async def panel(ctx):
     embed = make_embed(
         title="🛒 Purchase/Help",
-        description=( "┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n"
+        description=(
+            "┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n"
 "__**Check Out Our Stock Lists**__ :-\n"
 
 " Mc Plan's <#1489349016771760190>\n"
