@@ -492,8 +492,7 @@ class PersistentTicketView(ui.View):
 async def panel(ctx):
     embed = make_embed(
         title="🛒 Purchase/Help",
-        description=(
-            "┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n"
+        description=( "┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n"
 "__**Check Out Our Stock Lists**__ :-\n"
 
 " Mc Plan's <#1489349016771760190>\n"
@@ -501,9 +500,9 @@ async def panel(ctx):
 " OttsStock <#1489349053417521353>\n"
 "┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n"
 "__**Trusted Mart made With Love & Support**__\n"
-"- **Over 450+ deals**\n"
-"- ** 24/7  customer support**"
-"- **300+ reviews & 250+ proofs**"
+"- **Over 450+ deals**\n"\n"
+"- ** 24/7  customer support**"\n"
+"- **300+ reviews & 250+ proofs**"\n"
 "┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n"
 "__**How To avoid Scams? **__\n"
 "- **make sure You Are Dealing with Real Owners i.e. Darinda Or Elf or Jallad**\n"
