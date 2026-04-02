@@ -493,23 +493,23 @@ async def panel(ctx):
     embed = make_embed(
         title="🛒 Purchase/Help",
         description=(
-            "┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-__**Check Out Our Stock Lists**__ :-
+            "┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n"
+"__**Check Out Our Stock Lists**__ :-\n"
 
-<a:arrow_arrow:1453440639164219536> Mc Plan's <#1489349016771760190>
-<a:arrow_arrow:1453440639164219536> LiveStock <#1489348885800550560> 
-<a:arrow_arrow:1453440639164219536> OttsStock <#1489349053417521353>
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-__**Trusted Mart made With Love & Support**__
-- **Over 450+ deals**
-- ** 24/7  customer support** <a:Daddy:1486674357970534472> 
-- **300+ reviews & 250+ proofs** <a:BLUSH:1486674360310825054>
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-__**How To avoid Scams? <a:warning:1480135564035358861> **__
-- **make sure You Are Dealing with Real Owners i.e. Darinda Or Elf or Jallad**
-- **We never Reject mm**
-- **make report ticket from ticket named channel to Mark Anyone Scammer**
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈"
+"<a:arrow_arrow:1453440639164219536> Mc Plan's <#1489349016771760190>\n"
+"<a:arrow_arrow:1453440639164219536> LiveStock <#1489348885800550560>\n"
+"<a:arrow_arrow:1453440639164219536> OttsStock <#1489349053417521353>\n"
+"┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n"
+"__**Trusted Mart made With Love & Support**__\n"
+"- **Over 450+ deals**\n"
+"- ** 24/7  customer support** <a:Daddy:1486674357970534472>\n"
+"- **300+ reviews & 250+ proofs** <a:BLUSH:1486674360310825054>\n"
+"┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n"
+"__**How To avoid Scams? <a:warning:1480135564035358861> **__\n"
+"- **make sure You Are Dealing with Real Owners i.e. Darinda Or Elf or Jallad**\n"
+"- **We never Reject mm**\n"
+"- **make report ticket from ticket named channel to Mark Anyone Scammer**\n"
+"┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n"
         ),
         color=discord.Color.blurple(),
         footer="Only you and our team can see your ticket."
